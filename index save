@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Jim's Website</title>
+</head>
+
+<body>
+  <img src="https://yodabd.com/uploads/profile_images/thumbs/Screenshot_2019-06-09-15-08-37-185_com.miui.gallery_5cfccca32344a.png" alt="Jims picture">
+  <h1>MR.Meraj aman Jim</h1>
+  <p>I'm a <strong><em> Student</em></strong> and <br /> doing <em>B.Sc in<strong> Electrical Engineering</strong></em></p>
+  <p>In the institude of <i><strong>AIUB</strong></i></p>
+  <p>Now I want to be a WEB DEVELOPER </p>
+  <hr>
+  <h3>EDUCATIONAL INSTITUDES</h3>
+  <ul>
+    <li>Passing SSC from Panchagarh BP</li>
+      <li>Passing HSC from Queens College </li>
+      <li>Running B.Sc in EEE </li>
+  </ul>
+  <ol>
+    <li>SSC:2016</li>
+    <li>HSC:2018</li>
+    <li>B.Sc:2018-2022</li>
+  </ol>
+</body>
+
+</html>
